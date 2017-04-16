@@ -1,10 +1,28 @@
 # React-Redux-Docker-Ngnix-Seed
 
-React | Redux | Router | Auth-Components | SocketIO | Ajax | Webpack
+ - [React](https://github.com/facebook/react)
+ - [Redux](https://github.com/reactjs/react-redux)
+ - Router
+ - Auth-Components
+ - [SocketIO](https://github.com/socketio/socket.io)
+ - [Webpack](https://webpack.github.io/)
 
-Material-UI | CSSModules
+Style
 
-Docker | Ngnix |  Selenium | Mocha | Karma | 
+ - [Sass](http://sass-lang.com/)
+ - [Material-UI](http://www.material-ui.com/#/)
+ - [CSSModules](https://github.com/css-modules/css-modules)
+
+Dev
+
+ - [Docker](https://www.docker.com/)
+ - [Ngnix](https://www.nginx.com/resources/wiki/)
+ 
+Test
+ 
+ - [Selenium](http://www.seleniumhq.org/)
+ - [Mocha](https://mochajs.org/)
+ - [Karma](https://karma-runner.github.io/1.0/index.html)
 
 
 --------------
